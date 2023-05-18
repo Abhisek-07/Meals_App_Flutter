@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Meals_App without using Riverpod (default state management)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
